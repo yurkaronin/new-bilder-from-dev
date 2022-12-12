@@ -1,0 +1,17 @@
+{
+  "name": "new-bilder-from-dev",
+  "description": "Новый сборщик для рабочих проектов по вёрстке",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rm": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuriy Savchenko",
+  "license": "ISC"
+}
